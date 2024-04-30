@@ -1,3 +1,5 @@
+![Badge-Conversor](https://github.com/xpedrushx/convertidor_de_monedas/assets/122552500/8724b890-c719-499a-a59e-7257cf790a84)
+
 Conversor de Moneda
 ===================
 
